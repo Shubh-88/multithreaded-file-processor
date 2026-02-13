@@ -1,0 +1,2 @@
+Multithreading is fast
+Java threads are useful
